@@ -17,6 +17,7 @@ Finder Lost is a mobile application that is currently being developed for iOS an
 - SwiftUI
 - Combine
 - Redux architecture
+- CI/CD on Xcode Server
 
 
 ## Technologies used on Android
@@ -26,7 +27,7 @@ Finder Lost is a mobile application that is currently being developed for iOS an
 
 ## Technologies used on Backend
 
-- In progress..
+- Firebase on Firestore Datebase
 
 
 ## Technologies used on Web
@@ -36,7 +37,7 @@ Finder Lost is a mobile application that is currently being developed for iOS an
 
 ## Installation
 
-- Not avaiable yet...
+- Sent an email to finderlostinfo@gmail.com if you'd like to have access a private beta on iOS. 
 
 
 ## Credits
